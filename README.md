@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **web and mobile development**
 
 - 💬 Ask me about **ReactJS,React Native , Javascript , NodeJS , ExpressJS**
-<div  align="center"><img   src="https://images.unsplash.com/photo-1653387300291-bfa1eeb90e16?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+<div  align="center"><img   src="https://images.unsplash.com/photo-1687603921109-46401b201195?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8" />
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
