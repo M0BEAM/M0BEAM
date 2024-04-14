@@ -1,16 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
 
 <body>
     <h1 align="center">Hi 👋, I'm Mourad BENAMMAR</h1>
     <h3 align="center">A passionate MERN Stack && Mobile Development from TUNISIA</h3>
-    <div style="   display: flex;
+    <div style="display: flex;
     justify-content: center;
     margin: 30px 0;" class="image">
         <img width="400px" height="400px"
@@ -87,5 +80,3 @@
                 height="40" /> </a> </p>
 
 </body>
-
-</html>
