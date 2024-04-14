@@ -10,7 +10,7 @@
   
 - 👯 I’m looking to collaborate on **web and mobile development**
   
-- 💬 Ask me about **ReactJS,React Native , Javascript , NodeJS , ExpressJS**
+- 💬 Ask me about **ReactJS,React Native , Javascript , NodeJS , ExpressJS , C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
