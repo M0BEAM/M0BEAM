@@ -2,11 +2,11 @@
 <h3 align="center">A passionate MERN Stack && Mobile Development from TUNISIA</h3>
 - 🔭 I’m currently working on **Hotel Wallet** a web project.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native**.
 <div  align="center">
   <img   src="https://c0.wallpaperflare.com/preview/1004/350/396/abstract-php-c-analytics.jpg" />
-</div>**
-- 👯 I’m looking to collaborate on **web and mobile development**
+</div>
+- 👯 I’m looking to collaborate on **web and mobile development**.
 
 - 💬 Ask me about **ReactJS,React Native , Javascript , NodeJS , ExpressJS**
 
