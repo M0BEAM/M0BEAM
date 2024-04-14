@@ -6,18 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        .image{
-            display: flex;
-            justify-content: center;
-            margin: 30px 0;
-        }
+
     </style>
 </head>
 
 <body>
     <h1 align="center">Hi 👋, I'm Mourad BENAMMAR</h1>
     <h3 align="center">A passionate MERN Stack && Mobile Development from TUNISIA</h3>
-    <div class="image"><img width="400px" height="400px"
+    <div style="   display: flex;
+    justify-content: center;
+    margin: 30px 0;" class="image">
+        <img width="400px" height="400px"
             src="https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
     </div>
     - 🔭 I’m currently working on **Hotel Wallet**
