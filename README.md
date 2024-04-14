@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mourad BENAMMAR</h1>
 <h3 align="center">A passionate MERN Stack && Mobile Development from TUNISIA</h3>
-<div  align="center"><img  width="400px" height="400px" src="https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
-</div>
 - 🔭 I’m currently working on **Hotel Wallet**
 
 - 🌱 I’m currently learning **React Native**
@@ -9,7 +7,8 @@
 - 👯 I’m looking to collaborate on **web and mobile development**
 
 - 💬 Ask me about **ReactJS,React Native , Javascript , NodeJS , ExpressJS**
-
+<div  align="center"><img  width="400px" height="400px" src="https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mourad-benammar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mourad-benammar" height="30" width="40" /></a>
