@@ -44,6 +44,16 @@
   <a href="https://instagram.com/mourad.ben.ammar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
 </p>
 
+<h3 align="center">🗣️ Language Skills</h3>
+
+### Programming Languages:
+
+<p align="center">
+  <img src="https://skills-animated-bar.s3.amazonaws.com/html5.gif" alt="HTML5" width="100" height="100"/>
+  <img src="https://skills-animated-bar.s3.amazonaws.com/javascript.gif" alt="JavaScript" width="100" height="100"/>
+  <img src="https://skills-animated-bar.s3.amazonaws.com/css3.gif" alt="CSS3" width="100" height="100"/>
+  <img src="https://skills-animated-bar.s3.amazonaws.com/react.gif" alt="React" width="100" height="100"/>
+</p>
 ---
 
 <h3 align="center">🚀 Recent Achievements & Projects:</h3>
