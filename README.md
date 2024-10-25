@@ -48,7 +48,7 @@
 
 <h3 align="center">🚀 Recent Achievements & Projects:</h3>
 
-- 💻 Developed **Echangy**, a platform for seamless book exchanges. Check it out: [Echangy](https://echangy.netlify.app/)
+- 💻 Developed **Echangy**, a platform for seamless material exchanges. Check it out: [Echangy](https://echangy.netlify.app/)
 - 🛠️ Built a clone of **Jumia Tunisia** using **React** and **Tailwind CSS**.
 - 📱 Working on **Ktebi**, a web project for book exchanges.
 - 🌍 Collaborating on projects related to **MERN stack** and **mobile development**.
