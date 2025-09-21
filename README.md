@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mourad BENAMMAR</h1>
-<h3 align="center">A Passionate MERN Stack & Mobile Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 <div align="center">
   <img src="https://c0.wallpaperflare.com/preview/1004/350/396/abstract-php-c-analytics.jpg" alt="coding-image" style="border-radius: 10px; max-width: 100%; height: auto;">
